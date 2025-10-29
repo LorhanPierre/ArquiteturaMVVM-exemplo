@@ -89,3 +89,12 @@ Nesta estrutura, a camada `View` foi subdividida para melhor organização:
                         └── dto
                             ├── AutorDTO.java
                             └── TituloDTO.java
+
+```
+
+# 📖 Exemplo visual de como Funciona o MVVM
+
+
+<img width="1252" height="651" alt="image" src="https://github.com/user-attachments/assets/c10a843d-9309-4acb-94fa-971ac7b65fae" />
+
+---
